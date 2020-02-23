@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <algorithm>
+#include <vector>
+#include <map>;
+#include <list>;
+#include <string>
+#include <functional>
+#include <Windows.h>
